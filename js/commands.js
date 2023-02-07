@@ -1,18 +1,16 @@
-var youtube = "https://www.youtube.com/AngeloCammaroto";
-var password = "acammaroto";
-var linkedin = "https://www.linkedin.com/in/angelo-cammaroto/";
-var instagram = "https://www.instagram.com/angelo.cammaroto/";
-var github = "https://github.com/acammaroto/";
-var email = 'mailto:hi@angelocammaroto.com';
+var linkedin = "https://www.linkedin.com/in/thesamarthmishra/";
+var instagram = "https://www.instagram.com/codersforcode/";
+var github = "https://github.com/stackdevsamarth/";
+var email = 'mailto:stackdevsamarth@programmer.net';
 
 whois = [
   "<br>",
-  "Hey, I'm Angelo!👋",
-  "I'm a Software Engineer and content creator, who builds engaging websites (or mobile apps) like this one",
-  "and makes Instagram videos about computer science & software engineering.",
-  "After graduating with a Bachelor's in Computer Science, I worked professionally",
-  "as a software engineer building enterprise web applications for big tech companies in Italy.",
-  "While doing all of that, I documented my coding journey on Instagram - trying to enlighten",
+  "Hey, I'm Samarthmishra!👋",
+  "I'm a aspiring Software Engineer and content creator, who builds engaging websites like this one",
+  "and makes youtube videos about computer science & software engineering.",
+  "currently pursuing my graduatation with a Bachelor's in Business Administration as well as Diploma in computer science, I worked professionally",
+  "as a software engineer building enterprise web applications for Shops & smaill companies in india.",
+  "While doing all of that, I documented my coding journey on Youtube - trying to enlighten",
   "the next generation of developers and help them navigate the crazy world that is software", "development & computer science.",
   "<br>"
 ];
@@ -26,9 +24,9 @@ whoami = [
 social = [
   "<br>",
   //'youtube        <a href="' + youtube + '" target="_blank">https://www.youtube.com/AngeloCammaroto' + "</a>",
-  'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/angelo-cammaroto' + "</a>",
-  'instagram      <a href="' + instagram + '" target="_blank">instagram/angelo.cammaroto' + '</a>',
-  'github         <a href="' + github + '" target="_blank">github/acammaroto' + "</a>",
+  'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/thesamarthmishra' + "</a>",
+  'instagram      <a href="' + instagram + '" target="_blank">instagram/codersforcode' + '</a>',
+  'github         <a href="' + github + '" target="_blank">github/stackdevsamarth' + "</a>",
   "<br>"
 ];
 
@@ -61,7 +59,7 @@ help = [
 ];
 
 banner = [
-  '<span class="index">Angelo Cammaroto (AC) Not A Corporation. All knights reserved.</span>',
+  '<span class="index">Samarth Mishra (Sam) Not A Corporation. All knights reserved.</span>',
 "              ________",
 "         _,.-Y  |  |  Y-._",
 "      .-~\"   ||  |  |  |   \"-.",
@@ -76,11 +74,11 @@ banner = [
 "         l__j         l__j",
 "         |!!|         |!!|",
 "         |..|         |..|",
-"         ([])         ([])        _                 _        ___                               _       ",
-"         ]--[         ]--[       /_\\  _ _  __ _ ___| |___   / __|__ _ _ __  _ __  __ _ _ _ ___| |_ ___ ",
-"         [_L]         [_L]      / _ \\| ' \\/ _` / -_| / _ \\ | (__/ _` | '  \\| '  \\/ _` | '_/ _ |  _/ _ \\" , 
-"        /|..|\\       /|..|\\    /_/ \\_|_||_\\__, \\___|_\\___/  \\___\\__,_|_|_|_|_|_|_\\__,_|_| \\___/\\__\\___/",
-"       `=}--{='     `=}--{='              |___/                                                        ",
+"         ([])         ([]) ",
+"         ]--[         ]--[ ",
+"         [_L]         [_L] " , 
+"        /|..|\\       /|..|\\ ",
+"       `=}--{='     `=}--{='   ",
 "      .-^--r-^-.   .-^--r-^-.",
 "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
   '<span class="color2">Welcome to my interactive web terminal.</span>',

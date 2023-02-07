@@ -95,7 +95,7 @@ function commander(cmd) {
     case "sudo":
       addLine("Oh no, you're not admin...", "color2", 80);
       setTimeout(function() {
-        window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+        window.open('https://youtu.be/F_MUI4TEe-8');
       }, 1000); 
       break;
     case "social":
@@ -117,7 +117,7 @@ function commander(cmd) {
       addLine("<br>", "command", 80 * commands.length + 50);
       break;
     case "email":
-      addLine('Opening mailto:<a href="mailto:hi@angelocammaroto.com">hi@angelocammaroto.com</a>...', "color2", 80);
+      addLine('Opening mailto:<a href="mailto:hi@stackdevsamarth@programmer.net">hi@stackdevsamarth@programmer.net</a>...', "color2", 80);
       newTab(email);
       break;
     case "clear":
